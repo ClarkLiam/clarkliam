@@ -2,4 +2,9 @@
 
 My name Liam Clark. I'm a self-taught developer, currently based in Stuttgart, Germany
 
-![](https://github-readme-stats-liam-clarks-projects-07b5cb2a.vercel.app/api?username=clarkliam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs&show_icons=true)
+<a href="https://github.com/clarkliam/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-liam-clarks-projects-07b5cb2a.vercel.app/api?username=clarkliam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github.com/clarkliam">
+  <img height=200 align="center" src="https://github-readme-stats-liam-clarks-projects-07b5cb2a.vercel.app/api/top-langs/?username=clarkliam&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" />
+</a>
