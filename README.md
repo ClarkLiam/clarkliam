@@ -1,4 +1,4 @@
-# Hi there 👋,
+# Hi there 👋
 
 I'm Liam Clark, a self-taught developer, currently based in Stuttgart, Germany
 
