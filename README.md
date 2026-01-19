@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Liam Clark**, a self-taught developer with a passion for coding and technology. 
+I'm **Liam Clark**, a self-taught developer with a passion for coding, eelctrical engineering and technology. 
 
 ## About Me
 
