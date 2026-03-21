@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Liam Clark**, a self-taught developer with a passion for coding, eelctrical engineering and technology. 
+I'm **Liam Clark**, a self-taught developer with a passion for coding, elctrical engineering and technology. 
 
 ## About Me
 
@@ -12,10 +12,6 @@ Based in **Germany**, I am a young developer skilled in multiple programming lan
 
 ## GitHub Stats
 
-<a href="https://github.com/clarkliam">
-  <img height=175 align="center" src="https://github-readme-stats-liam-clarks-projects-07b5cb2a.vercel.app/api?username=clarkliam&theme=dark&hide_border=true&include_all_commits=true&show=reviews,prs_merged_percentage&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/clarkliam">
-  <img height=175 
-    align="center" src="https://github-readme-stats-liam-clarks-projects-07b5cb2a.vercel.app/api/top-langs/?username=clarkliam&langs_count=8&layout=compact&theme=dark&hide_border=true&size_weight=0.8&count_weight=0.2" />
-</a>
+![Liam's Stats](https://github-readme-stats-liam-clarks-projects-07b5cb2a.vercel.app/api?username=clarkliam&theme=dark&hide_border=true&include_all_commits=true&show=reviews,prs_merged_percentage&count_private=true&show_icons=true)  
+![clarkliam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=clarkliam&theme=dark&hide_border=true)  
+![clarkliam's Top Languages](https://github-readme-stats-liam-clarks-projects-07b5cb2a.vercel.app/api/top-langs/?username=clarkliam&theme=dark&show_icons=true&hide_border=true&layout=compact)
